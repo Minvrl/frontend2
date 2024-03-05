@@ -1,0 +1,30 @@
+.tealbox{
+    background-color: rgb(108, 174, 174);
+    width: 100%;
+    height: 200px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    border: 1px solid rgba(0, 0, 255, 0.671);
+}
+
+.lastbox {
+    background-color: rgb(4, 86, 86);
+    width: 100%;
+    height: 200px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+body{
+    color: white;
+    margin-top: 70px;
+}
+
+div.p{
+    text-align: center;
+    color: gray;
+    margin-top: 20px;
+    font-family: sans-serif;
+}
